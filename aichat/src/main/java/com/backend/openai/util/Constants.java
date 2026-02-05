@@ -19,6 +19,7 @@ public class Constants {
     // Other Constants
     public static final String DATE_FORMAT = "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'";
     public static final String UTF_8 = "UTF-8";
+    
     // HTTP Response Codes
     public static final int HTTP_OK = 200;
     public static final int HTTP_CREATED = 201;
