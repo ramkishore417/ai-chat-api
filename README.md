@@ -36,4 +36,4 @@ This service acts as a **gateway layer** between the frontend UI and external AI
 
 **Endpoint**
 ```http
-POST /api/chat
+POST /api/ai/chat
